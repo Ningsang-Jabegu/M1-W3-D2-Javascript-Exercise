@@ -1,5 +1,7 @@
 # Front End Web Development Bootcamp (M1-W3-D2-Javascript-Exercise)
 
+_First updated: July 15, 2021_
+
 This repository contains image files and screenshots showcasing vanilla JavaScript execution within the browser's developer tool console. The exercise is part of the homework for Module 1, Week 3, Day 2 of the **Front End Development Bootcamp** conducted by **Westcliff University**. 
 
 The goal of this exercise was to practice JavaScript fundamentals in a practical, hands-on manner, leveraging browser dev tools to execute and debug code.
